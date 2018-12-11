@@ -1,8 +1,10 @@
-# SerialFox
+# Serial Fox
 A non-disconnecting Serial/TTL -> USB Adapter with intergrated levelshifters. Build your own from the schematics or buy a premade one from any of our **partners** (comming soon).
 
-## Features
-=IMAGE=HERE=
+## Images
+= IMAGE OF DEVICE HERE =
+= IMAGE OF SCHEMATIC HERE =
+= IMAGE OF FEATURES HERE =
 
 ## Why we created the Serial Fox
 Serial Fox have an electrical isolated output which meands it can be used with targets that use a voltage all from 2V to 6V. The adapter needs power from both ends and can't deliver power to the target.
